@@ -2,8 +2,8 @@
   margin:0px;
   background-image:none;
   position:relative;
-  left:-18px;
-  width:1509px;
+  left:-132px;
+  width:2309px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -19,10 +19,10 @@
 #u0 {
   border-width:0px;
   position:absolute;
-  left:18px;
-  top:65px;
-  width:1509px;
-  height:3503px;
+  left:132px;
+  top:52px;
+  width:2309px;
+  height:1407px;
   display:flex;
   transition:none;
 }
@@ -38,8 +38,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1509px;
-  height:3503px;
+  width:2309px;
+  height:1407px;
 }
 #u0_text {
   border-width:0px;

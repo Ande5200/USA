@@ -81,6 +81,8 @@
   font-size:14px;
   text-align:left;
 }
+.horizontal_line {
+}
 .paragraph {
   text-align:left;
 }
@@ -102,6 +104,9 @@
   text-align:left;
 }
 .line {
+}
+.radio_button {
+  text-align:left;
 }
 .droplist {
   color:#000000;
@@ -134,11 +139,14 @@
 .checkbox {
   text-align:left;
 }
-.radio_button {
+.radio_button1 {
   text-align:left;
 }
 .paragraph1 {
   text-align:left;
+}
+.primary_button1 {
+  color:#FFFFFF;
 }
 .shape1 {
 }
@@ -153,7 +161,7 @@
 }
 .flow_shape {
 }
-.radio_button1 {
+.radio_button2 {
   text-align:left;
 }
 .placeholder {

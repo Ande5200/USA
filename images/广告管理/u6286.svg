@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="13px" height="13px" viewBox="192 789 13 13" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 198.5 789  C 202.14 789  205 791.86  205 795.5  C 205 799.14  202.14 802  198.5 802  C 194.86 802  192 799.14  192 795.5  C 192 791.86  194.86 789  198.5 789  Z " fill-rule="nonzero" fill="rgba(255, 255, 255, 1)" stroke="none" class="fill" />
-  <path d="M 198.5 789.5  C 201.86 789.5  204.5 792.14  204.5 795.5  C 204.5 798.86  201.86 801.5  198.5 801.5  C 195.14 801.5  192.5 798.86  192.5 795.5  C 192.5 792.14  195.14 789.5  198.5 789.5  Z " stroke-width="1" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" class="stroke" stroke-dashoffset="0.5" />
-  <path d="M 198.5 798.75  C 196.68 798.75  195.25 797.32  195.25 795.5  C 195.25 793.68  196.68 792.25  198.5 792.25  C 200.32 792.25  201.75 793.68  201.75 795.5  C 201.75 797.32  200.32 798.75  198.5 798.75  " fill-rule="nonzero" fill="rgba(121, 121, 121, 1)" stroke="none" class="stroke btn_check" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="13px" height="13px" viewBox="809 712 13 13" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 815.5 712  C 819.14 712  822 714.86  822 718.5  C 822 722.14  819.14 725  815.5 725  C 811.86 725  809 722.14  809 718.5  C 809 714.86  811.86 712  815.5 712  Z " fill-rule="nonzero" fill="rgba(255, 255, 255, 1)" stroke="none" class="fill" />
+  <path d="M 815.5 712.5  C 818.86 712.5  821.5 715.14  821.5 718.5  C 821.5 721.86  818.86 724.5  815.5 724.5  C 812.14 724.5  809.5 721.86  809.5 718.5  C 809.5 715.14  812.14 712.5  815.5 712.5  Z " stroke-width="1" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" class="stroke" stroke-dashoffset="0.5" />
+  <path d="M 815.5 721.75  C 813.68 721.75  812.25 720.32  812.25 718.5  C 812.25 716.68  813.68 715.25  815.5 715.25  C 817.32 715.25  818.75 716.68  818.75 718.5  C 818.75 720.32  817.32 721.75  815.5 721.75  " fill-rule="nonzero" fill="rgba(121, 121, 121, 1)" stroke="none" class="stroke btn_check" />
 </svg>

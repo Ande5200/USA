@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="46px" height="41px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1 0 0 1 -293 -191 )">
+    <path d="M 293 191  L 339 191  L 339 232  L 293 232  L 293 191  " fill-rule="nonzero" fill="rgba(204, 204, 204, 1)" stroke="none" class="fill" />
+    <path d="M 296 194  L 336 194  L 336 229  L 296 229  L 296 194  " fill-rule="nonzero" fill="rgba(255, 255, 255, 1)" stroke="none" class="fill" />
+    <path d="M 319.995 203.3  C 318.273 203.3  316.92 201.947  316.92 200.22500000000002  C 316.92 198.50300000000001  318.273 197.15  319.995 197.15  C 321.717 197.15  323.07 198.50300000000001  323.07 200.22500000000002  C 323.07 201.947  321.717 203.3  319.995 203.3  " fill-rule="nonzero" fill="rgba(204, 204, 204, 1)" stroke="none" class="fill" />
+    <path d="M 297 228  L 297 209.85  L 306.5 201.6  L 319.8 210.3521739130435  L 327.4 206.55  L 335 210.3521739130435  L 335 228  L 297 228  " fill-rule="nonzero" fill="rgba(22, 155, 213, 1)" stroke="none" class="fill" />
+  </g>
+</svg>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="12px" height="12px" viewBox="173 64.5 12 12" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 179 64.5  C 182.36 64.5  185 67.14  185 70.5  C 185 73.86  182.36 76.5  179 76.5  C 175.64 76.5  173 73.86  173 70.5  C 173 67.14  175.64 64.5  179 64.5  Z " fill-rule="nonzero" fill="rgba(255, 255, 255, 1)" stroke="none" class="fill" />
-  <path d="M 179 65  C 182.08 65  184.5 67.42  184.5 70.5  C 184.5 73.58  182.08 76  179 76  C 175.92 76  173.5 73.58  173.5 70.5  C 173.5 67.42  175.92 65  179 65  Z " stroke-width="1" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" class="stroke" stroke-dashoffset="0.5" />
-  <path d="M 179 73.5  C 177.32 73.5  176 72.18  176 70.5  C 176 68.82  177.32 67.5  179 67.5  C 180.68 67.5  182 68.82  182 70.5  C 182 72.18  180.68 73.5  179 73.5  " fill-rule="nonzero" fill="rgba(121, 121, 121, 1)" stroke="none" class="stroke btn_check" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="12px" height="12px" viewBox="173 109.5 12 12" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 179 109.5  C 182.36 109.5  185 112.14  185 115.5  C 185 118.86  182.36 121.5  179 121.5  C 175.64 121.5  173 118.86  173 115.5  C 173 112.14  175.64 109.5  179 109.5  Z " fill-rule="nonzero" fill="rgba(255, 255, 255, 1)" stroke="none" class="fill" />
+  <path d="M 179 110  C 182.08 110  184.5 112.42  184.5 115.5  C 184.5 118.58  182.08 121  179 121  C 175.92 121  173.5 118.58  173.5 115.5  C 173.5 112.42  175.92 110  179 110  Z " stroke-width="1" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" class="stroke" stroke-dashoffset="0.5" />
+  <path d="M 179 118.5  C 177.32 118.5  176 117.18  176 115.5  C 176 113.82  177.32 112.5  179 112.5  C 180.68 112.5  182 113.82  182 115.5  C 182 117.18  180.68 118.5  179 118.5  " fill-rule="nonzero" fill="rgba(121, 121, 121, 1)" stroke="none" class="stroke btn_check" />
 </svg>

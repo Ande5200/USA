@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="12px" height="12px" viewBox="369 64.5 12 12" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 375 64.5  C 378.36 64.5  381 67.14  381 70.5  C 381 73.86  378.36 76.5  375 76.5  C 371.64 76.5  369 73.86  369 70.5  C 369 67.14  371.64 64.5  375 64.5  Z " fill-rule="nonzero" fill="rgba(240, 240, 240, 1)" stroke="none" class="fill" />
-  <path d="M 375 65  C 378.08 65  380.5 67.42  380.5 70.5  C 380.5 73.58  378.08 76  375 76  C 371.92 76  369.5 73.58  369.5 70.5  C 369.5 67.42  371.92 65  375 65  Z " stroke-width="1" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" class="stroke" stroke-dashoffset="0.5" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="12px" height="12px" viewBox="369 109.5 12 12" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 375 109.5  C 378.36 109.5  381 112.14  381 115.5  C 381 118.86  378.36 121.5  375 121.5  C 371.64 121.5  369 118.86  369 115.5  C 369 112.14  371.64 109.5  375 109.5  Z " fill-rule="nonzero" fill="rgba(240, 240, 240, 1)" stroke="none" class="fill" />
+  <path d="M 375 110  C 378.08 110  380.5 112.42  380.5 115.5  C 380.5 118.58  378.08 121  375 121  C 371.92 121  369.5 118.58  369.5 115.5  C 369.5 112.42  371.92 110  375 110  Z " stroke-width="1" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" class="stroke" stroke-dashoffset="0.5" />
 </svg>

@@ -61,6 +61,11 @@
 }
 ._流程图形状 {
 }
+._连接线 {
+}
+.sticky_1 {
+  text-align:left;
+}
 .shape {
 }
 .box_2 {
@@ -189,5 +194,9 @@
   color:#999999;
 }
 .form_disabled {
+}
+.shape2 {
+}
+.box_21 {
 }
 textarea, select, input, button, div, svg { outline: none; }

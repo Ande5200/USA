@@ -34,7 +34,7 @@
   left:0px;
   top:0px;
   width:1383px;
-  height:1040px;
+  height:830px;
   background-image:none;
   border-radius:0px;
   -moz-box-shadow:none;
@@ -4763,6 +4763,7 @@
   position:absolute;
   left:25px;
   top:552px;
+  visibility:hidden;
 }
 #u4463_state0 {
   position:relative;

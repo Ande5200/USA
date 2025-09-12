@@ -68,6 +68,8 @@
 }
 .shape {
 }
+.connector {
+}
 .box_2 {
 }
 .heading_1 {
@@ -75,6 +77,13 @@
   font-weight:700;
   font-style:normal;
   font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:"Arial Negreta", "Arial Normal", "Arial", sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
   text-align:left;
 }
 .image {
@@ -180,7 +189,7 @@
 .link_button1 {
   color:#1E98D7;
 }
-.heading_2 {
+.heading_21 {
   font-family:"Arial Normal", "Arial", sans-serif;
   font-weight:bold;
   font-style:normal;

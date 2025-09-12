@@ -1,13 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="104px" height="96px" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-    <mask fill="white" id="Clip30">
-      <path d="M 0 92  L 0 4  C 0 1.7599999999999998  1.76 0  4 0  L 100 0  C 102.24 0  104 1.7599999999999998  104 4  L 104 92  C 104 94.24000000000001  102.24 96  100 96  L 4 96  C 1.76 96  0 94.24000000000001  0 92  Z " fill-rule="evenodd" />
-    </mask>
-  </defs>
-  <g transform="matrix(1 0 0 1 -147 -707 )">
-    <path d="M 0 92  L 0 4  C 0 1.7599999999999998  1.76 0  4 0  L 100 0  C 102.24 0  104 1.7599999999999998  104 4  L 104 92  C 104 94.24000000000001  102.24 96  100 96  L 4 96  C 1.76 96  0 94.24000000000001  0 92  Z " fill-rule="nonzero" fill="rgba(0, 0, 0, 0.0196078431372549)" stroke="none" transform="matrix(1 0 0 1 147 707 )" class="fill" />
-    <path d="M 0 92  L 0 4  C 0 1.7599999999999998  1.76 0  4 0  L 100 0  C 102.24 0  104 1.7599999999999998  104 4  L 104 92  C 104 94.24000000000001  102.24 96  100 96  L 4 96  C 1.76 96  0 94.24000000000001  0 92  Z " stroke-width="2" stroke-dasharray="9,4" stroke="rgba(217, 217, 217, 1)" fill="none" transform="matrix(1 0 0 1 147 707 )" class="stroke" mask="url(#Clip30)" />
-  </g>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="12px" height="12px" viewBox="150 678 12 12" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 150 678  L 162 678  L 162 690  L 150 690  L 150 678  Z " fill-rule="nonzero" fill="rgba(255, 255, 255, 1)" stroke="none" class="fill" />
+  <path d="M 150.5 678.5  L 161.5 678.5  L 161.5 689.5  L 150.5 689.5  L 150.5 678.5  Z " stroke-width="1" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" class="stroke" stroke-dashoffset="0.5" />
+  <path d="M 152.57142857142858 684  L 155.14285714285714 686.5714285714286  L 159.42857142857142 680.5714285714286  " stroke-width="2.571428571428571" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" class="stroke btn_check" />
 </svg>

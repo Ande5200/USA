@@ -1,6 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="13px" height="13px" viewBox="511 568 13 13" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 517.5 568  C 521.14 568  524 570.86  524 574.5  C 524 578.14  521.14 581  517.5 581  C 513.86 581  511 578.14  511 574.5  C 511 570.86  513.86 568  517.5 568  Z " fill-rule="nonzero" fill="rgba(255, 255, 255, 1)" stroke="none" class="fill" />
-  <path d="M 517.5 568.5  C 520.86 568.5  523.5 571.14  523.5 574.5  C 523.5 577.86  520.86 580.5  517.5 580.5  C 514.14 580.5  511.5 577.86  511.5 574.5  C 511.5 571.14  514.14 568.5  517.5 568.5  Z " stroke-width="1" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" class="stroke" stroke-dashoffset="0.5" />
-  <path d="M 517.5 577.75  C 515.68 577.75  514.25 576.32  514.25 574.5  C 514.25 572.68  515.68 571.25  517.5 571.25  C 519.32 571.25  520.75 572.68  520.75 574.5  C 520.75 576.32  519.32 577.75  517.5 577.75  " fill-rule="nonzero" fill="rgba(121, 121, 121, 1)" stroke="none" class="stroke btn_check" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="13px" height="13px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+  </defs>
+  <g transform="matrix(1 0 0 1 -511 -568 )">
+    <path d="M 6.5 0  C 10.14 0  13 2.8599999999999994  13 6.5  C 13 10.14  10.14 13  6.5 13  C 2.8599999999999994 13  0 10.14  0 6.5  C 0 2.8599999999999994  2.8599999999999994 0  6.5 0  Z " fill-rule="nonzero" fill="rgba(255, 255, 255, 1)" stroke="none" transform="matrix(1 0 0 1 511 568 )" class="fill" />
+    <path d="M 6.5 0.5  C 9.86 0.5  12.5 3.1399999999999997  12.5 6.5  C 12.5 9.86  9.86 12.5  6.5 12.5  C 3.1399999999999997 12.5  0.5 9.86  0.5 6.5  C 0.5 3.1399999999999997  3.1399999999999997 0.5  6.5 0.5  Z " stroke-width="1" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 511 568 )" class="stroke" stroke-dashoffset="0.5" />
+    <path d="M 6.5 9.75  C 4.68 9.75  3.25 8.32  3.25 6.5  C 3.25 4.68  4.68 3.25  6.5 3.25  C 8.32 3.25  9.75 4.68  9.75 6.5  C 9.75 8.32  8.32 9.75  6.5 9.75  " fill-rule="nonzero" fill="rgba(121, 121, 121, 1)" stroke="none" transform="matrix(1 0 0 1 511 568 )" class="stroke btn_check" />
+  </g>
 </svg>

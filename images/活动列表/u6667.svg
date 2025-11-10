@@ -1,11 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="12px" height="12px" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="104px" height="96px" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <mask fill="white" id="Clip189">
+      <path d="M 0 92  L 0 4  C 0 1.7599999999999998  1.76 0  4 0  L 100 0  C 102.24 0  104 1.7599999999999998  104 4  L 104 92  C 104 94.24000000000001  102.24 96  100 96  L 4 96  C 1.76 96  0 94.24000000000001  0 92  Z " fill-rule="evenodd" />
+    </mask>
   </defs>
-  <g transform="matrix(1 0 0 1 -150 -1784 )">
-    <path d="M 0 0  L 12 0  L 12 12  L 0 12  L 0 0  Z " fill-rule="nonzero" fill="rgba(255, 255, 255, 1)" stroke="none" transform="matrix(1 0 0 1 150 1784 )" class="fill" />
-    <path d="M 0.5 0.5  L 11.5 0.5  L 11.5 11.5  L 0.5 11.5  L 0.5 0.5  Z " stroke-width="1" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 150 1784 )" class="stroke" stroke-dashoffset="0.5" />
-    <path d="M 2.571428571428571 6  L 5.142857142857143 8.571428571428571  L 9.428571428571429 2.571428571428571  " stroke-width="2.571428571428571" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 150 1784 )" class="stroke btn_check" />
+  <g transform="matrix(1 0 0 1 -150 -1810 )">
+    <path d="M 0 92  L 0 4  C 0 1.7599999999999998  1.76 0  4 0  L 100 0  C 102.24 0  104 1.7599999999999998  104 4  L 104 92  C 104 94.24000000000001  102.24 96  100 96  L 4 96  C 1.76 96  0 94.24000000000001  0 92  Z " fill-rule="nonzero" fill="rgba(0, 0, 0, 0.0196078431372549)" stroke="none" transform="matrix(1 0 0 1 150 1810 )" class="fill" />
+    <path d="M 0 92  L 0 4  C 0 1.7599999999999998  1.76 0  4 0  L 100 0  C 102.24 0  104 1.7599999999999998  104 4  L 104 92  C 104 94.24000000000001  102.24 96  100 96  L 4 96  C 1.76 96  0 94.24000000000001  0 92  Z " stroke-width="2" stroke-dasharray="9,4" stroke="rgba(217, 217, 217, 1)" fill="none" transform="matrix(1 0 0 1 150 1810 )" class="stroke" mask="url(#Clip189)" />
   </g>
 </svg>
